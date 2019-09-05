@@ -23,9 +23,11 @@
     "gatsby-plugin-netlify": "^2.1.6",
     "gatsby-plugin-offline": "^2.2.7",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "react-fontawesome": "^1.6.1"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2",
     "cross-env": "^5.2.0"
   }
 }
